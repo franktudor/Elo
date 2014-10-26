@@ -1,4 +1,4 @@
-Elo
+elo rating system
 ===
 
 Coldfusion Elo rating system
